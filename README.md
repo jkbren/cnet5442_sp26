@@ -94,32 +94,32 @@ Deliverables:
 | 03 | Wed Jan 14 | no notebook | Tournament Structures |
 | — | Mon Jan 19 | — | **No class (MLK Day)** |
 | 04 | Wed Jan 21 | `class_04/class_04_distributions_odds_surprises.ipynb` | Distributions, Odds, & Surprises |
-| 05 | Mon Jan 26 | `class_05/class_05_regression_01_moneyball.ipynb` | Regression Pt. 1 — Moneyball Replication |
-| 06 | Wed Jan 28 | `class_06/class_06_regression_02_expectation_likelihood.ipynb` | Regression Pt. 2 — Expectation & Likelihood |
-| 07 | Mon Feb 02 | `class_07/class_07_regression_03_survival_logistic.ipynb` | Regression Pt. 3 — Survival + Logistic Regression |
-| 08 | Wed Feb 04 | `class_08/class_08_bayesian_hot_hand.ipynb` | Regression Pt. 4 — Bayesian Statistics & the Hot Hand |
-| 09 | Mon Feb 09 | `class_09/class_09_classification_clustering.ipynb` | Classification & Clustering |
-| 10 | Wed Feb 11 | `class_10/class_10_multidimensional_embedding.ipynb` | Multidimensional Data & Embedding |
+| — | Mon Jan 26 | — | *No class (Open Office Hours)* |
+| 05 | Wed Jan 28 | `class_05/class_05_regression_01_moneyball.ipynb` | Regression Pt. 1 — Moneyball Replication |
+| 06 | Mon Feb 02 | `class_06/class_06_regression_02_expectation_likelihood.ipynb` | Regression Pt. 2 — Expectation & Likelihood |
+| 07 | Wed Feb 04 | `class_07/class_07_regression_03_survival_logistic.ipynb` | Regression Pt. 3 — Survival + Logistic Regression |
+| 08 | Mon Feb 09 | `class_08/class_08_bayesian_hot_hand.ipynb` | Regression Pt. 4 — Bayesian Statistics & the Hot Hand |
+| 09 | Wed Feb 11 | `class_09/class_09_classification_clustering.ipynb` | Classification & Clustering |
 | — | Mon Feb 16 | — | **No class (Presidents’ Day)** |
-| 11 | Wed Feb 18 | no notebook | Invited Speaker (TBD) |
-| 12 | Mon Feb 23 | `class_12/class_12_causality_01_intro.ipynb` | Causality Pt. 1 -- Introduction |
-| 13 | Wed Feb 25 | `class_13/class_13_causality_02_applied.ipynb` | Causality Pt. 1 -- Applications |
+| 10 | Wed Feb 18 | `class_10/class_10_multidimensional_embedding.ipynb` | Multidimensional Data & Embedding |
+| 11 | Mon Feb 23 | `class_11/class_11_causality_01_intro.ipynb` | Causality Pt. 1 -- Introduction |
+| 12 | Wed Feb 25 | `class_12/class_12_causality_02_applied.ipynb` | Causality Pt. 1 -- Applications |
 | — | Mon Mar 02 | — | **No class (Spring Break)** |
 | — | Wed Mar 04 | — | **No class (Spring Break)** |
-| 14 | Mon Mar 09 | `class_14/class_14_ml_01_intro.ipynb` | Machine Learning Pt. 1 — Introduction |
-| 15 | Wed Mar 11 | `class_15/class_15_ml_02_march_madness.ipynb` | Machine Learning Pt. 2 — March Madness |
-| 16 | Mon Mar 16 | `class_16/class_16_spatiotemporal_hockey.ipynb` | Spatiotemporal Data Analysis: Hockey |
-| 17 | Wed Mar 18 | `class_17/class_17_intro_network_science_through_sports.ipynb` | Intro to Network Science Through Sports |
-| 18 | Mon Mar 23 | `class_18/class_18_soccer_passing_networks.ipynb` | Networks in Soccer — Passing Networks |
-| 19 | Wed Mar 25 | `class_19/class_19_soccer_spatial_passing.ipynb` | Pitch Passing & Spatial Networks |
-| 20 | Mon Mar 30 | `class_20/class_20_sequences_pt1.ipynb` | Sequences of Events Pt. 1 |
-| 21 | Wed Apr 01 | `class_21/class_21_sequences_pt2.ipynb` | Sequences of Events Pt. 2 |
-| 22 | Mon Apr 06 | `class_22/class_22_roles_motifs.ipynb` | Roles and Motifs |
-| 23 | Wed Apr 08 | `class_23/class_23_transfer_trade_scouting.ipynb` | Transfer, Trade, and Scouting Networks |
-| 24 | Mon Apr 13 | TBD | Information Theory or Ranking with Networks (TBD) |
-| 25 | Wed Apr 15 | no notebook | Invited Speaker (TBD) |
+| 13 | Mon Mar 09 | `class_13/class_13_ml_01_intro.ipynb` | Machine Learning Pt. 1 — Introduction |
+| 14 | Wed Mar 11 | `class_14/class_14_ml_02_march_madness.ipynb` | Machine Learning Pt. 2 — March Madness |
+| 15 | Mon Mar 16 | `class_15/class_15_spatiotemporal_hockey.ipynb` | Spatiotemporal Data Analysis: Hockey |
+| 16 | Wed Mar 18 | `class_16/class_16_intro_network_science_through_sports.ipynb` | Intro to Network Science Through Sports |
+| 17 | Mon Mar 23 | `class_17/class_17_soccer_passing_networks.ipynb` | Networks in Soccer — Passing Networks |
+| 18 | Wed Mar 25 | `class_18/class_18_soccer_spatial_passing.ipynb` | Pitch Passing & Spatial Networks |
+| 19 | Mon Mar 30 | `class_19/class_19_sequences_pt1.ipynb` | Sequences of Events Pt. 1 |
+| 20 | Wed Apr 01 | `class_20/class_20_sequences_pt2.ipynb` | Sequences of Events Pt. 2 |
+| 21 | Mon Apr 06 | `class_21/class_21_roles_motifs.ipynb` | Roles and Motifs |
+| 22 | Wed Apr 08 | `class_22/class_22_transfer_trade_scouting.ipynb` | Transfer, Trade, and Scouting Networks |
+| 23 | Mon Apr 13 | TBD | Information Theory or Ranking with Networks (TBD) |
+| 24 | Wed Apr 15 | no notebook | Invited Speaker (TBD) |
 | — | Mon Apr 20 | — | **No class (Patriot’s Day)** |
-| 26 | Wed Apr 22 | no notebook | Final Presentations |
+| 25 | Wed Apr 22 | no notebook | Final Presentations |
 
 ---
 
