@@ -1,0 +1,639 @@
+Conference,TeamName,Mapped Conference Name,Mapped ESPN Team Name
+A10,Butler,Atlantic 10 Conference (A-10),Butler
+A10,Charlotte,Atlantic 10 Conference (A-10),Charlotte
+A10,Davidson,Atlantic 10 Conference (A-10),Davidson
+A10,Dayton,Atlantic 10 Conference (A-10),Dayton
+A10,Duquesne,Atlantic 10 Conference (A-10),Duquesne
+A10,Fordham,Atlantic 10 Conference (A-10),Fordham
+A10,George Mason,Atlantic 10 Conference (A-10),George Mason
+A10,George Washington,Atlantic 10 Conference (A-10),George Washington
+A10,La Salle,Atlantic 10 Conference (A-10),La Salle
+A10,Loyola Chicago,Atlantic 10 Conference (A-10),Loyola Chicago
+A10,Massachusetts,Atlantic 10 Conference (A-10),Massachusetts
+A10,Rhode Island,Atlantic 10 Conference (A-10),Rhode Island
+A10,Richmond,Atlantic 10 Conference (A-10),Richmond
+A10,Saint Joseph's,Atlantic 10 Conference (A-10),Saint Joseph's
+A10,Saint Louis,Atlantic 10 Conference (A-10),Saint Louis
+A10,St. Bonaventure,Atlantic 10 Conference (A-10),St. Bonaventure
+A10,Temple,Atlantic 10 Conference (A-10),Temple
+A10,VCU,Atlantic 10 Conference (A-10),VCU
+A10,Xavier,Atlantic 10 Conference (A-10),Xavier
+ACC,Boston College,Atlantic Coast Conference (ACC),Boston College
+ACC,California,Atlantic Coast Conference (ACC),California
+ACC,Clemson,Atlantic Coast Conference (ACC),Clemson
+ACC,Duke,Atlantic Coast Conference (ACC),Duke
+ACC,Florida St.,Atlantic Coast Conference (ACC),Florida State
+ACC,Georgia Tech,Atlantic Coast Conference (ACC),Georgia Tech
+ACC,Louisville,Atlantic Coast Conference (ACC),Louisville
+ACC,Maryland,Atlantic Coast Conference (ACC),Maryland
+ACC,Miami FL,Atlantic Coast Conference (ACC),Miami
+ACC,NC State,Atlantic Coast Conference (ACC),NC State
+ACC,North Carolina,Atlantic Coast Conference (ACC),North Carolina
+ACC,Notre Dame,Atlantic Coast Conference (ACC),Notre Dame
+ACC,Pittsburgh,Atlantic Coast Conference (ACC),Pittsburgh
+ACC,SMU,Atlantic Coast Conference (ACC),SMU
+ACC,Stanford,Atlantic Coast Conference (ACC),Stanford
+ACC,Syracuse,Atlantic Coast Conference (ACC),Syracuse
+ACC,Virginia,Atlantic Coast Conference (ACC),Virginia
+ACC,Virginia Tech,Atlantic Coast Conference (ACC),Virginia Tech
+ACC,Wake Forest,Atlantic Coast Conference (ACC),Wake Forest
+AE,Albany,American East Conference (AmEast),UAlbany
+AE,Binghamton,American East Conference (AmEast),Binghamton
+AE,Boston University,American East Conference (AmEast),Boston University
+AE,Bryant,American East Conference (AmEast),Bryant
+AE,Hartford,American East Conference (AmEast),Hartford
+AE,Maine,American East Conference (AmEast),Maine
+AE,New Hampshire,American East Conference (AmEast),New Hampshire
+AE,NJIT,American East Conference (AmEast),NJIT
+AE,Northeastern,American East Conference (AmEast),Northeastern
+AE,Stony Brook,American East Conference (AmEast),Stony Brook
+AE,UMass Lowell,American East Conference (AmEast),UMass Lowell
+AE,UMBC,American East Conference (AmEast),UMBC
+AE,Vermont,American East Conference (AmEast),Vermont
+Amer,Charlotte,American Athletic Conference (AAC),Charlotte
+Amer,Cincinnati,American Athletic Conference (AAC),Cincinnati
+Amer,Connecticut,American Athletic Conference (AAC),UConn
+Amer,East Carolina,American Athletic Conference (AAC),East Carolina
+Amer,Florida Atlantic,American Athletic Conference (AAC),Florida Atlantic
+Amer,Houston,American Athletic Conference (AAC),Houston
+Amer,Louisville,American Athletic Conference (AAC),Louisville
+Amer,Memphis,American Athletic Conference (AAC),Memphis
+Amer,North Texas,American Athletic Conference (AAC),North Texas
+Amer,Rice,American Athletic Conference (AAC),Rice
+Amer,Rutgers,American Athletic Conference (AAC),Rutgers
+Amer,SMU,American Athletic Conference (AAC),SMU
+Amer,South Florida,American Athletic Conference (AAC),South Florida
+Amer,Temple,American Athletic Conference (AAC),Temple
+Amer,Tulane,American Athletic Conference (AAC),Tulane
+Amer,Tulsa,American Athletic Conference (AAC),Tulsa
+Amer,UAB,American Athletic Conference (AAC),UAB
+Amer,UCF,American Athletic Conference (AAC),UCF
+Amer,UTSA,American Athletic Conference (AAC),UTSA
+Amer,Wichita St.,American Athletic Conference (AAC),Wichita State
+ASun,Austin Peay,Atlantic Sun Conference (ASUN),Austin Peay
+ASun,Bellarmine,Atlantic Sun Conference (ASUN),Bellarmine
+ASun,Belmont,Atlantic Sun Conference (ASUN),Belmont
+ASun,Campbell,Atlantic Sun Conference (ASUN),Campbell
+ASun,Central Arkansas,Atlantic Sun Conference (ASUN),Central Arkansas
+ASun,East Tennessee St.,Atlantic Sun Conference (ASUN),East Tennessee State
+ASun,Eastern Kentucky,Atlantic Sun Conference (ASUN),Eastern Kentucky
+ASun,Florida Atlantic,Atlantic Sun Conference (ASUN),Florida Atlantic
+ASun,Florida Gulf Coast,Atlantic Sun Conference (ASUN),Florida Gulf Coast
+ASun,Gardner Webb,Atlantic Sun Conference (ASUN),Gardner-Webb
+ASun,Georgia St.,Atlantic Sun Conference (ASUN),Georgia State
+ASun,Jacksonville,Atlantic Sun Conference (ASUN),Jacksonville
+ASun,Jacksonville St.,Atlantic Sun Conference (ASUN),Jacksonville State
+ASun,Kennesaw St.,Atlantic Sun Conference (ASUN),Kennesaw State
+ASun,Liberty,Atlantic Sun Conference (ASUN),Liberty
+ASun,Lipscomb,Atlantic Sun Conference (ASUN),Lipscomb
+ASun,Mercer,Atlantic Sun Conference (ASUN),Mercer
+ASun,NJIT,Atlantic Sun Conference (ASUN),NJIT
+ASun,North Alabama,Atlantic Sun Conference (ASUN),North Alabama
+ASun,North Florida,Atlantic Sun Conference (ASUN),North Florida
+ASun,Northern Kentucky,Atlantic Sun Conference (ASUN),Northern Kentucky
+ASun,Queens,Atlantic Sun Conference (ASUN),Queens University
+ASun,Samford,Atlantic Sun Conference (ASUN),Samford
+ASun,Stetson,Atlantic Sun Conference (ASUN),Stetson
+ASun,Troy,Atlantic Sun Conference (ASUN),Troy
+ASun,Troy St.,Atlantic Sun Conference (ASUN),Troy
+ASun,UCF,Atlantic Sun Conference (ASUN),UCF
+ASun,USC Upstate,Atlantic Sun Conference (ASUN),South Carolina Upstate
+ASun,West Georgia,Atlantic Sun Conference (ASUN),West Georgia
+B10,Illinois,Big Ten Conference (Big 10),Illinois
+B10,Indiana,Big Ten Conference (Big 10),Indiana
+B10,Iowa,Big Ten Conference (Big 10),Iowa
+B10,Maryland,Big Ten Conference (Big 10),Maryland
+B10,Michigan,Big Ten Conference (Big 10),Michigan
+B10,Michigan St.,Big Ten Conference (Big 10),Michigan State
+B10,Minnesota,Big Ten Conference (Big 10),Minnesota
+B10,Nebraska,Big Ten Conference (Big 10),Nebraska
+B10,Northwestern,Big Ten Conference (Big 10),Northwestern
+B10,Ohio St.,Big Ten Conference (Big 10),Ohio State
+B10,Oregon,Big Ten Conference (Big 10),Oregon
+B10,Penn St.,Big Ten Conference (Big 10),Penn State
+B10,Purdue,Big Ten Conference (Big 10),Purdue
+B10,Rutgers,Big Ten Conference (Big 10),Rutgers
+B10,UCLA,Big Ten Conference (Big 10),UCLA
+B10,USC,Big Ten Conference (Big 10),USC
+B10,Washington,Big Ten Conference (Big 10),Washington
+B10,Wisconsin,Big Ten Conference (Big 10),Wisconsin
+B12,Arizona,Big 12 Conference,Arizona
+B12,Arizona St.,Big 12 Conference,Arizona State
+B12,Baylor,Big 12 Conference,Baylor
+B12,BYU,Big 12 Conference,BYU
+B12,Cincinnati,Big 12 Conference,Cincinnati
+B12,Colorado,Big 12 Conference,Colorado
+B12,Houston,Big 12 Conference,Houston
+B12,Iowa St.,Big 12 Conference,Iowa State
+B12,Kansas,Big 12 Conference,Kansas
+B12,Kansas St.,Big 12 Conference,Kansas State
+B12,Missouri,Big 12 Conference,Missouri
+B12,Nebraska,Big 12 Conference,Nebraska
+B12,Oklahoma,Big 12 Conference,Oklahoma
+B12,Oklahoma St.,Big 12 Conference,Oklahoma State
+B12,TCU,Big 12 Conference,TCU
+B12,Texas,Big 12 Conference,Texas
+B12,Texas A&M,Big 12 Conference,Texas A&M
+B12,Texas Tech,Big 12 Conference,Texas Tech
+B12,UCF,Big 12 Conference,UCF
+B12,Utah,Big 12 Conference,Utah
+B12,West Virginia,Big 12 Conference,West Virginia
+BE,Boston College,Big East Conference,Boston College
+BE,Butler,Big East Conference,Butler
+BE,Cincinnati,Big East Conference,Cincinnati
+BE,Connecticut,Big East Conference,UConn
+BE,Creighton,Big East Conference,Creighton
+BE,DePaul,Big East Conference,DePaul
+BE,Georgetown,Big East Conference,Georgetown
+BE,Louisville,Big East Conference,Louisville
+BE,Marquette,Big East Conference,Marquette
+BE,Miami FL,Big East Conference,Miami
+BE,Notre Dame,Big East Conference,Notre Dame
+BE,Pittsburgh,Big East Conference,Pittsburgh
+BE,Providence,Big East Conference,Providence
+BE,Rutgers,Big East Conference,Rutgers
+BE,Seton Hall,Big East Conference,Seton Hall
+BE,South Florida,Big East Conference,South Florida
+BE,St. John's,Big East Conference,St. John's
+BE,Syracuse,Big East Conference,Syracuse
+BE,Villanova,Big East Conference,Villanova
+BE,Virginia Tech,Big East Conference,Virginia Tech
+BE,West Virginia,Big East Conference,West Virginia
+BE,Xavier,Big East Conference,Xavier
+BSky,Eastern Washington,Big Sky Conference,Eastern Washington
+BSky,Idaho,Big Sky Conference,Idaho
+BSky,Idaho St.,Big Sky Conference,Idaho State
+BSky,Montana,Big Sky Conference,Montana
+BSky,Montana St.,Big Sky Conference,Montana State
+BSky,North Dakota,Big Sky Conference,North Dakota
+BSky,Northern Arizona,Big Sky Conference,Northern Arizona
+BSky,Northern Colorado,Big Sky Conference,Northern Colorado
+BSky,Portland St.,Big Sky Conference,Portland State
+BSky,Sacramento St.,Big Sky Conference,Sacramento State
+BSky,Southern Utah,Big Sky Conference,Southern Utah
+BSky,Weber St.,Big Sky Conference,Weber State
+BSth,Birmingham Southern,Big South Conference,Birmingham-Southern
+BSth,Campbell,Big South Conference,Campbell
+BSth,Charleston Southern,Big South Conference,Charleston Southern
+BSth,Coastal Carolina,Big South Conference,Coastal Carolina
+BSth,Elon,Big South Conference,Elon
+BSth,Gardner Webb,Big South Conference,Gardner-Webb
+BSth,Hampton,Big South Conference,Hampton
+BSth,High Point,Big South Conference,High Point
+BSth,Liberty,Big South Conference,Liberty
+BSth,Longwood,Big South Conference,Longwood
+BSth,North Carolina A&T,Big South Conference,North Carolina A&T
+BSth,Presbyterian,Big South Conference,Presbyterian
+BSth,Radford,Big South Conference,Radford
+BSth,UNC Asheville,Big South Conference,UNC Asheville
+BSth,USC Upstate,Big South Conference,South Carolina Upstate
+BSth,VMI,Big South Conference,VMI
+BSth,Winthrop,Big South Conference,Winthrop
+BW,Cal Poly,Big West Conference (BWC),Cal Poly
+BW,Cal St. Bakersfield,Big West Conference (BWC),Cal State Bakersfield
+BW,Cal St. Fullerton,Big West Conference (BWC),Cal State Fullerton
+BW,Cal St. Northridge,Big West Conference (BWC),Cal State Northridge
+BW,CSUN,Big West Conference (BWC),Cal State Northridge
+BW,Hawaii,Big West Conference (BWC),Hawaii
+BW,Idaho,Big West Conference (BWC),Idaho
+BW,Long Beach St.,Big West Conference (BWC),Long Beach State
+BW,Pacific,Big West Conference (BWC),Pacific
+BW,UC Davis,Big West Conference (BWC),UC Davis
+BW,UC Irvine,Big West Conference (BWC),UC Irvine
+BW,UC Riverside,Big West Conference (BWC),UC Riverside
+BW,UC San Diego,Big West Conference (BWC),UC San Diego
+BW,UC Santa Barbara,Big West Conference (BWC),UC Santa Barbara
+BW,Utah St.,Big West Conference (BWC),Utah State
+CAA,Campbell,Coastal Athletic Association (CAA),Campbell
+CAA,Charleston,Coastal Athletic Association (CAA),Charleston
+CAA,College of Charleston,Coastal Athletic Association (CAA),Charleston
+CAA,Delaware,Coastal Athletic Association (CAA),Delaware
+CAA,Drexel,Coastal Athletic Association (CAA),Drexel
+CAA,Elon,Coastal Athletic Association (CAA),Elon
+CAA,George Mason,Coastal Athletic Association (CAA),George Mason
+CAA,Georgia St.,Coastal Athletic Association (CAA),Georgia State
+CAA,Hampton,Coastal Athletic Association (CAA),Hampton
+CAA,Hofstra,Coastal Athletic Association (CAA),Hofstra
+CAA,James Madison,Coastal Athletic Association (CAA),James Madison
+CAA,Monmouth,Coastal Athletic Association (CAA),Monmouth
+CAA,North Carolina A&T,Coastal Athletic Association (CAA),North Carolina A&T
+CAA,Northeastern,Coastal Athletic Association (CAA),Northeastern
+CAA,Old Dominion,Coastal Athletic Association (CAA),Old Dominion
+CAA,Stony Brook,Coastal Athletic Association (CAA),Stony Brook
+CAA,Towson,Coastal Athletic Association (CAA),Towson
+CAA,UNC Wilmington,Coastal Athletic Association (CAA),UNC Wilmington
+CAA,VCU,Coastal Athletic Association (CAA),VCU
+CAA,William & Mary,Coastal Athletic Association (CAA),William & Mary
+CUSA,Charlotte,Conference USA (CUSA),Charlotte
+CUSA,Cincinnati,Conference USA (CUSA),Cincinnati
+CUSA,DePaul,Conference USA (CUSA),DePaul
+CUSA,East Carolina,Conference USA (CUSA),East Carolina
+CUSA,FIU,Conference USA (CUSA),Florida International
+CUSA,Florida Atlantic,Conference USA (CUSA),Florida Atlantic
+CUSA,Houston,Conference USA (CUSA),Houston
+CUSA,Jacksonville St.,Conference USA (CUSA),Jacksonville State
+CUSA,Kennesaw St.,Conference USA (CUSA),Kennesaw State
+CUSA,Liberty,Conference USA (CUSA),Liberty
+CUSA,Louisiana Tech,Conference USA (CUSA),Louisiana Tech
+CUSA,Louisville,Conference USA (CUSA),Louisville
+CUSA,Marquette,Conference USA (CUSA),Marquette
+CUSA,Marshall,Conference USA (CUSA),Marshall
+CUSA,Memphis,Conference USA (CUSA),Memphis
+CUSA,Middle Tennessee,Conference USA (CUSA),Middle Tennessee
+CUSA,New Mexico St.,Conference USA (CUSA),New Mexico State
+CUSA,North Texas,Conference USA (CUSA),North Texas
+CUSA,Old Dominion,Conference USA (CUSA),Old Dominion
+CUSA,Rice,Conference USA (CUSA),Rice
+CUSA,Saint Louis,Conference USA (CUSA),Saint Louis
+CUSA,Sam Houston St.,Conference USA (CUSA),Sam Houston
+CUSA,SMU,Conference USA (CUSA),SMU
+CUSA,South Florida,Conference USA (CUSA),South Florida
+CUSA,Southern Miss,Conference USA (CUSA),Southern Miss
+CUSA,TCU,Conference USA (CUSA),TCU
+CUSA,Tulane,Conference USA (CUSA),Tulane
+CUSA,Tulsa,Conference USA (CUSA),Tulsa
+CUSA,UAB,Conference USA (CUSA),UAB
+CUSA,UCF,Conference USA (CUSA),UCF
+CUSA,UTEP,Conference USA (CUSA),UTEP
+CUSA,UTSA,Conference USA (CUSA),UTSA
+CUSA,Western Kentucky,Conference USA (CUSA),Western Kentucky
+GWC,Chicago St.,Great West Conference (GWC),Chicago State
+GWC,Houston Baptist,Great West Conference (GWC),Houston Christian
+GWC,NJIT,Great West Conference (GWC),NJIT
+GWC,North Dakota,Great West Conference (GWC),North Dakota
+GWC,South Dakota,Great West Conference (GWC),South Dakota
+GWC,Texas Pan American,Great West Conference (GWC),UT Rio Grande Valley
+GWC,Utah Valley,Great West Conference (GWC),Utah Valley
+Horz,Butler,Horizon League,Butler
+Horz,Cleveland St.,Horizon League,Cleveland State
+Horz,Detroit,Horizon League,Detroit Mercy
+Horz,Detroit Mercy,Horizon League,Detroit Mercy
+Horz,Green Bay,Horizon League,Green Bay
+Horz,Illinois Chicago,Horizon League,UIC
+Horz,IU Indy,Horizon League,IU Indianapolis
+Horz,IUPUI,Horizon League,IU Indianapolis
+Horz,Loyola Chicago,Horizon League,Loyola Chicago
+Horz,Milwaukee,Horizon League,Milwaukee
+Horz,Northern Kentucky,Horizon League,Northern Kentucky
+Horz,Oakland,Horizon League,Oakland
+Horz,Purdue Fort Wayne,Horizon League,Purdue Fort Wayne
+Horz,Robert Morris,Horizon League,Robert Morris
+Horz,Valparaiso,Horizon League,Valparaiso
+Horz,Wright St.,Horizon League,Wright State
+Horz,Youngstown St.,Horizon League,Youngstown State
+ind,Bryant,Division 1 Independents,Bryant
+ind,Cal St. Bakersfield,Division 1 Independents,Cal State Bakersfield
+ind,Centenary,Division 1 Independents,Centenary (NJ)
+ind,Chicago St.,Division 1 Independents,Chicago State
+ind,Gardner Webb,Division 1 Independents,Gardner-Webb
+ind,Hartford,Division 1 Independents,Hartford
+ind,Houston Baptist,Division 1 Independents,Houston Christian
+ind,IPFW,Division 1 Independents,Purdue Fort Wayne
+ind,Lipscomb,Division 1 Independents,Lipscomb
+ind,Longwood,Division 1 Independents,Longwood
+ind,Morris Brown,Division 1 Independents,Morris Brown
+ind,Nebraska Omaha,Division 1 Independents,Omaha
+ind,New Orleans,Division 1 Independents,New Orleans
+ind,NJIT,Division 1 Independents,NJIT
+ind,North Carolina Central,Division 1 Independents,North Carolina Central
+ind,North Dakota St.,Division 1 Independents,North Dakota State
+ind,Northern Colorado,Division 1 Independents,Northern Colorado
+ind,Presbyterian,Division 1 Independents,Presbyterian
+ind,Savannah St.,Division 1 Independents,Savannah State
+ind,Seattle,Division 1 Independents,Seattle U
+ind,SIU Edwardsville,Division 1 Independents,SIU Edwardsville
+ind,South Dakota St.,Division 1 Independents,South Dakota State
+ind,Texas A&M Corpus Chris,Division 1 Independents,Texas A&M-Corpus Christi
+ind,Texas Pan American,Division 1 Independents,UT Rio Grande Valley
+ind,UC Davis,Division 1 Independents,UC Davis
+ind,Utah Valley,Division 1 Independents,Utah Valley
+ind,Utah Valley St.,Division 1 Independents,Utah Valley
+ind,Winston Salem St.,Division 1 Independents,Winstom-Salem
+Ivy,Brown,Ivy League,Brown
+Ivy,Columbia,Ivy League,Columbia
+Ivy,Cornell,Ivy League,Cornell
+Ivy,Dartmouth,Ivy League,Dartmouth
+Ivy,Harvard,Ivy League,Harvard
+Ivy,Penn,Ivy League,Pennsylvania
+Ivy,Princeton,Ivy League,Princeton
+Ivy,Yale,Ivy League,Yale
+MAAC,Canisius,Metro Atlantic Athletic Conference (MAAC),Canisius
+MAAC,Fairfield,Metro Atlantic Athletic Conference (MAAC),Fairfield
+MAAC,Iona,Metro Atlantic Athletic Conference (MAAC),Iona
+MAAC,Loyola MD,Metro Atlantic Athletic Conference (MAAC),Loyola Maryland
+MAAC,Manhattan,Metro Atlantic Athletic Conference (MAAC),Manhattan
+MAAC,Marist,Metro Atlantic Athletic Conference (MAAC),Marist
+MAAC,Merrimack,Metro Atlantic Athletic Conference (MAAC),Merrimack
+MAAC,Monmouth,Metro Atlantic Athletic Conference (MAAC),Monmouth
+MAAC,Mount St. Mary's,Metro Atlantic Athletic Conference (MAAC),Mount St. Mary's
+MAAC,Niagara,Metro Atlantic Athletic Conference (MAAC),Niagara
+MAAC,Quinnipiac,Metro Atlantic Athletic Conference (MAAC),Quinnipiac
+MAAC,Rider,Metro Atlantic Athletic Conference (MAAC),Rider
+MAAC,Sacred Heart,Metro Atlantic Athletic Conference (MAAC),Sacred Heart
+MAAC,Saint Peter's,Metro Atlantic Athletic Conference (MAAC),Saint Peter's
+MAAC,Siena,Metro Atlantic Athletic Conference (MAAC),Siena
+MAC,Akron,Mid-American Conference (MAC),Akron
+MAC,Ball St.,Mid-American Conference (MAC),Ball State
+MAC,Bowling Green,Mid-American Conference (MAC),Bowling Green
+MAC,Buffalo,Mid-American Conference (MAC),Buffalo
+MAC,Central Michigan,Mid-American Conference (MAC),Central Michigan
+MAC,Eastern Michigan,Mid-American Conference (MAC),Eastern Michigan
+MAC,Kent St.,Mid-American Conference (MAC),Kent State
+MAC,Marshall,Mid-American Conference (MAC),Marshall
+MAC,Miami OH,Mid-American Conference (MAC),Miami (OH)
+MAC,Northern Illinois,Mid-American Conference (MAC),Northern Illinois
+MAC,Ohio,Mid-American Conference (MAC),Ohio
+MAC,Toledo,Mid-American Conference (MAC),Toledo
+MAC,Western Michigan,Mid-American Conference (MAC),Western Michigan
+MCon,Centenary,Horizon League,Centenary (NJ)
+MCon,Chicago St.,Horizon League,Chicago State
+MCon,IUPUI,Horizon League,IU Indianapolis
+MCon,Oakland,Horizon League,Oakland
+MCon,Oral Roberts,Horizon League,Oral Roberts
+MCon,Southern Utah,Horizon League,Southern Utah
+MCon,UMKC,Horizon League,Kansas City
+MCon,Valparaiso,Horizon League,Valparaiso
+MCon,Western Illinois,Horizon League,Western Illinois
+MEAC,Bethune Cookman,Mid-Eastern Athletic Conference (MEAC),Bethune-Cookman
+MEAC,Coppin St.,Mid-Eastern Athletic Conference (MEAC),Coppin State
+MEAC,Delaware St.,Mid-Eastern Athletic Conference (MEAC),Delaware State
+MEAC,Florida A&M,Mid-Eastern Athletic Conference (MEAC),Florida A&M
+MEAC,Hampton,Mid-Eastern Athletic Conference (MEAC),Hampton
+MEAC,Howard,Mid-Eastern Athletic Conference (MEAC),Howard
+MEAC,Maryland Eastern Shore,Mid-Eastern Athletic Conference (MEAC),Maryland Eastern Shore
+MEAC,Morgan St.,Mid-Eastern Athletic Conference (MEAC),Morgan State
+MEAC,Norfolk St.,Mid-Eastern Athletic Conference (MEAC),Norfolk State
+MEAC,North Carolina A&T,Mid-Eastern Athletic Conference (MEAC),North Carolina A&T
+MEAC,North Carolina Central,Mid-Eastern Athletic Conference (MEAC),North Carolina Central
+MEAC,Savannah St.,Mid-Eastern Athletic Conference (MEAC),Savannah State
+MEAC,South Carolina St.,Mid-Eastern Athletic Conference (MEAC),South Carolina State
+MVC,Belmont,Missouri Valley Conference (MVC),Belmont
+MVC,Bradley,Missouri Valley Conference (MVC),Bradley
+MVC,Creighton,Missouri Valley Conference (MVC),Creighton
+MVC,Drake,Missouri Valley Conference (MVC),Drake
+MVC,Evansville,Missouri Valley Conference (MVC),Evansville
+MVC,Illinois Chicago,Missouri Valley Conference (MVC),UIC
+MVC,Illinois St.,Missouri Valley Conference (MVC),Illinois State
+MVC,Indiana St.,Missouri Valley Conference (MVC),Indiana State
+MVC,Loyola Chicago,Missouri Valley Conference (MVC),Loyola Chicago
+MVC,Missouri St.,Missouri Valley Conference (MVC),Missouri State
+MVC,Murray St.,Missouri Valley Conference (MVC),Murray State
+MVC,Northern Iowa,Missouri Valley Conference (MVC),Northern Iowa
+MVC,Southern Illinois,Missouri Valley Conference (MVC),Southern Illinois
+MVC,Southwest Missouri St.,Missouri Valley Conference (MVC),Missouri State
+MVC,Valparaiso,Missouri Valley Conference (MVC),Valparaiso
+MVC,Wichita St.,Missouri Valley Conference (MVC),Wichita State
+MWC,Air Force,Mountain West Conference (MW),Air Force
+MWC,Boise St.,Mountain West Conference (MW),Boise State
+MWC,BYU,Mountain West Conference (MW),BYU
+MWC,Colorado St.,Mountain West Conference (MW),Colorado State
+MWC,Fresno St.,Mountain West Conference (MW),Fresno State
+MWC,Nevada,Mountain West Conference (MW),Nevada
+MWC,New Mexico,Mountain West Conference (MW),New Mexico
+MWC,San Diego St.,Mountain West Conference (MW),San Diego State
+MWC,San Jose St.,Mountain West Conference (MW),San Jose State
+MWC,TCU,Mountain West Conference (MW),TCU
+MWC,UNLV,Mountain West Conference (MW),UNLV
+MWC,Utah,Mountain West Conference (MW),Utah
+MWC,Utah St.,Mountain West Conference (MW),Utah State
+MWC,Wyoming,Mountain West Conference (MW),Wyoming
+NEC,Bryant,Northeast Conference (NEC),Bryant
+NEC,Central Connecticut,Northeast Conference (NEC),Central Connecticut
+NEC,Chicago St.,Northeast Conference (NEC),Chicago State
+NEC,Fairleigh Dickinson,Northeast Conference (NEC),Fairleigh Dickinson
+NEC,Le Moyne,Northeast Conference (NEC),Le Moyne
+NEC,LIU,Northeast Conference (NEC),Long Island University
+NEC,LIU Brooklyn,Northeast Conference (NEC),Long Island University
+NEC,Mercyhurst,Northeast Conference (NEC),Mercyhurst
+NEC,Merrimack,Northeast Conference (NEC),Merrimack
+NEC,Monmouth,Northeast Conference (NEC),Monmouth
+NEC,Mount St. Mary's,Northeast Conference (NEC),Mount St. Mary's
+NEC,Quinnipiac,Northeast Conference (NEC),Quinnipiac
+NEC,Robert Morris,Northeast Conference (NEC),Robert Morris
+NEC,Sacred Heart,Northeast Conference (NEC),Sacred Heart
+NEC,Saint Francis,Northeast Conference (NEC),St. Francis (PA)
+NEC,St. Francis NY,Northeast Conference (NEC),St. Francis (NY)
+NEC,St. Francis PA,Northeast Conference (NEC),St. Francis (PA)
+NEC,Stonehill,Northeast Conference (NEC),Stonehill
+NEC,UMBC,Northeast Conference (NEC),UMBC
+NEC,Wagner,Northeast Conference (NEC),Wagner
+OVC,Austin Peay,"Ohio Valley Conference (OVC, The Valley)",Austin Peay
+OVC,Belmont,"Ohio Valley Conference (OVC, The Valley)",Belmont
+OVC,Eastern Illinois,"Ohio Valley Conference (OVC, The Valley)",Eastern Illinois
+OVC,Eastern Kentucky,"Ohio Valley Conference (OVC, The Valley)",Eastern Kentucky
+OVC,Jacksonville St.,"Ohio Valley Conference (OVC, The Valley)",Jacksonville State
+OVC,Lindenwood,"Ohio Valley Conference (OVC, The Valley)",Lindenwood
+OVC,Little Rock,"Ohio Valley Conference (OVC, The Valley)",Little Rock
+OVC,Morehead St.,"Ohio Valley Conference (OVC, The Valley)",Morehead State
+OVC,Murray St.,"Ohio Valley Conference (OVC, The Valley)",Murray State
+OVC,Samford,"Ohio Valley Conference (OVC, The Valley)",Samford
+OVC,SIU Edwardsville,"Ohio Valley Conference (OVC, The Valley)",SIU Edwardsville
+OVC,SIUE,"Ohio Valley Conference (OVC, The Valley)",SIU Edwardsville
+OVC,Southeast Missouri,"Ohio Valley Conference (OVC, The Valley)",Southeast Missouri State
+OVC,Southeast Missouri St.,"Ohio Valley Conference (OVC, The Valley)",Southeast Missouri State
+OVC,Southern Indiana,"Ohio Valley Conference (OVC, The Valley)",Southern Indiana
+OVC,Tennessee Martin,"Ohio Valley Conference (OVC, The Valley)",UT Martin
+OVC,Tennessee St.,"Ohio Valley Conference (OVC, The Valley)",Tennessee State
+OVC,Tennessee Tech,"Ohio Valley Conference (OVC, The Valley)",Tennessee Tech
+OVC,Western Illinois,"Ohio Valley Conference (OVC, The Valley)",Western Illinois
+P10,Arizona,Pac-12 Conference,Arizona
+P10,Arizona St.,Pac-12 Conference,Arizona State
+P10,California,Pac-12 Conference,California
+P10,Oregon,Pac-12 Conference,Oregon
+P10,Oregon St.,Pac-12 Conference,Oregon State
+P10,Stanford,Pac-12 Conference,Stanford
+P10,UCLA,Pac-12 Conference,UCLA
+P10,USC,Pac-12 Conference,USC
+P10,Washington,Pac-12 Conference,Washington
+P10,Washington St.,Pac-12 Conference,Washington State
+P12,Arizona,Pac-12 Conference,Arizona
+P12,Arizona St.,Pac-12 Conference,Arizona State
+P12,California,Pac-12 Conference,California
+P12,Colorado,Pac-12 Conference,Colorado
+P12,Oregon,Pac-12 Conference,Oregon
+P12,Oregon St.,Pac-12 Conference,Oregon State
+P12,Stanford,Pac-12 Conference,Stanford
+P12,UCLA,Pac-12 Conference,UCLA
+P12,USC,Pac-12 Conference,USC
+P12,Utah,Pac-12 Conference,Utah
+P12,Washington,Pac-12 Conference,Washington
+P12,Washington St.,Pac-12 Conference,Washington State
+Pat,American,Patriot League,American University
+Pat,Army,Patriot League,Army
+Pat,Boston University,Patriot League,Boston University
+Pat,Bucknell,Patriot League,Bucknell
+Pat,Colgate,Patriot League,Colgate
+Pat,Holy Cross,Patriot League,Holy Cross
+Pat,Lafayette,Patriot League,Lafayette
+Pat,Lehigh,Patriot League,Lehigh
+Pat,Loyola MD,Patriot League,Loyola Maryland
+Pat,Navy,Patriot League,Navy
+PL,American,Patriot League,American University
+PL,Army,Patriot League,Army
+PL,Boston University,Patriot League,Boston University
+PL,Bucknell,Patriot League,Bucknell
+PL,Colgate,Patriot League,Colgate
+PL,Holy Cross,Patriot League,Holy Cross
+PL,Lafayette,Patriot League,Lafayette
+PL,Lehigh,Patriot League,Lehigh
+PL,Loyola MD,Patriot League,Loyola Maryland
+PL,Navy,Patriot League,Navy
+SB,Appalachian St.,Sun Belt Conference (SBC),App State
+SB,Arkansas Little Rock,Sun Belt Conference (SBC),Little Rock
+SB,Arkansas St.,Sun Belt Conference (SBC),Arkansas State
+SB,Coastal Carolina,Sun Belt Conference (SBC),Coastal Carolina
+SB,Denver,Sun Belt Conference (SBC),Denver
+SB,FIU,Sun Belt Conference (SBC),Florida International
+SB,Florida Atlantic,Sun Belt Conference (SBC),Florida Atlantic
+SB,Georgia Southern,Sun Belt Conference (SBC),Georgia Southern
+SB,Georgia St.,Sun Belt Conference (SBC),Georgia State
+SB,James Madison,Sun Belt Conference (SBC),James Madison
+SB,Little Rock,Sun Belt Conference (SBC),Little Rock
+SB,Louisiana,Sun Belt Conference (SBC),Louisiana
+SB,Louisiana Lafayette,Sun Belt Conference (SBC),Louisiana
+SB,Louisiana Monroe,Sun Belt Conference (SBC),UL Monroe
+SB,Marshall,Sun Belt Conference (SBC),Marshall
+SB,Middle Tennessee,Sun Belt Conference (SBC),Middle Tennessee
+SB,Middle Tennessee St.,Sun Belt Conference (SBC),Middle Tennessee
+SB,New Mexico St.,Sun Belt Conference (SBC),New Mexico State
+SB,New Orleans,Sun Belt Conference (SBC),New Orleans
+SB,North Texas,Sun Belt Conference (SBC),North Texas
+SB,Old Dominion,Sun Belt Conference (SBC),Old Dominion
+SB,South Alabama,Sun Belt Conference (SBC),South Alabama
+SB,Southern Miss,Sun Belt Conference (SBC),Southern Miss
+SB,Texas St.,Sun Belt Conference (SBC),Texas State
+SB,Troy,Sun Belt Conference (SBC),Troy
+SB,UT Arlington,Sun Belt Conference (SBC),UT Arlington
+SB,Western Kentucky,Sun Belt Conference (SBC),Western Kentucky
+SC,Appalachian St.,Southern Conference (SoCon),App State
+SC,Chattanooga,Southern Conference (SoCon),Chattanooga
+SC,College of Charleston,Southern Conference (SoCon),Charleston
+SC,Davidson,Southern Conference (SoCon),Davidson
+SC,East Tennessee St.,Southern Conference (SoCon),East Tennessee State
+SC,Elon,Southern Conference (SoCon),Elon
+SC,Furman,Southern Conference (SoCon),Furman
+SC,Georgia Southern,Southern Conference (SoCon),Georgia Southern
+SC,Mercer,Southern Conference (SoCon),Mercer
+SC,Samford,Southern Conference (SoCon),Samford
+SC,The Citadel,Southern Conference (SoCon),The Citadel
+SC,UNC Greensboro,Southern Conference (SoCon),UNC Greensboro
+SC,VMI,Southern Conference (SoCon),VMI
+SC,Western Carolina,Southern Conference (SoCon),Western Carolina
+SC,Wofford,Southern Conference (SoCon),Wofford
+SEC,Alabama,Southeastern Conference (SEC),Alabama
+SEC,Arkansas,Southeastern Conference (SEC),Arkansas
+SEC,Auburn,Southeastern Conference (SEC),Auburn
+SEC,Florida,Southeastern Conference (SEC),Florida
+SEC,Georgia,Southeastern Conference (SEC),Georgia
+SEC,Kentucky,Southeastern Conference (SEC),Kentucky
+SEC,LSU,Southeastern Conference (SEC),LSU
+SEC,Mississippi,Southeastern Conference (SEC),Ole Miss
+SEC,Mississippi St.,Southeastern Conference (SEC),Mississippi State
+SEC,Missouri,Southeastern Conference (SEC),Missouri
+SEC,Oklahoma,Southeastern Conference (SEC),Oklahoma
+SEC,South Carolina,Southeastern Conference (SEC),South Carolina
+SEC,Tennessee,Southeastern Conference (SEC),Tennessee
+SEC,Texas,Southeastern Conference (SEC),Texas
+SEC,Texas A&M,Southeastern Conference (SEC),Texas A&M
+SEC,Vanderbilt,Southeastern Conference (SEC),Vanderbilt
+Slnd,Abilene Christian,Southland Conference (SLC),Abilene Christian
+Slnd,Central Arkansas,Southland Conference (SLC),Central Arkansas
+Slnd,East Texas A&M,Southland Conference (SLC),East Texas A&M
+Slnd,Houston Baptist,Southland Conference (SLC),Houston Christian
+Slnd,Houston Christian,Southland Conference (SLC),Houston Christian
+Slnd,Incarnate Word,Southland Conference (SLC),Incarnate Word
+Slnd,Lamar,Southland Conference (SLC),Lamar
+Slnd,Louisiana Monroe,Southland Conference (SLC),UL Monroe
+Slnd,McNeese,Southland Conference (SLC),McNeese
+Slnd,McNeese St.,Southland Conference (SLC),McNeese
+Slnd,New Orleans,Southland Conference (SLC),New Orleans
+Slnd,Nicholls,Southland Conference (SLC),Nicholls
+Slnd,Nicholls St.,Southland Conference (SLC),Nicholls
+Slnd,Northwestern St.,Southland Conference (SLC),Northwestern State
+Slnd,Oral Roberts,Southland Conference (SLC),Oral Roberts
+Slnd,Sam Houston St.,Southland Conference (SLC),Sam Houston
+Slnd,Southeastern Louisiana,Southland Conference (SLC),SE Louisiana
+Slnd,Southwest Texas St.,Southland Conference (SLC),Texas State
+Slnd,Stephen F. Austin,Southland Conference (SLC),Stephen F. Austin
+Slnd,Texas A&M Commerce,Southland Conference (SLC),East Texas A&M
+Slnd,Texas A&M Corpus Chris,Southland Conference (SLC),Texas A&M-Corpus Christi
+Slnd,Texas St.,Southland Conference (SLC),Texas State
+Slnd,UT Arlington,Southland Conference (SLC),UT Arlington
+Slnd,UT Rio Grande Valley,Southland Conference (SLC),UT Rio Grande Valley
+Slnd,UTSA,Southland Conference (SLC),UTSA
+Sum,Centenary,Summit League (The Summit),Centenary (NJ)
+Sum,Denver,Summit League (The Summit),Denver
+Sum,Fort Wayne,Summit League (The Summit),Purdue Fort Wayne
+Sum,IPFW,Summit League (The Summit),Purdue Fort Wayne
+Sum,IUPUI,Summit League (The Summit),IU Indianapolis
+Sum,Kansas City,Summit League (The Summit),Kansas City
+Sum,Nebraska Omaha,Summit League (The Summit),Omaha
+Sum,North Dakota,Summit League (The Summit),North Dakota
+Sum,North Dakota St.,Summit League (The Summit),North Dakota State
+Sum,Oakland,Summit League (The Summit),Oakland
+Sum,Oral Roberts,Summit League (The Summit),Oral Roberts
+Sum,Purdue Fort Wayne,Summit League (The Summit),Purdue Fort Wayne
+Sum,South Dakota,Summit League (The Summit),South Dakota
+Sum,South Dakota St.,Summit League (The Summit),South Dakota State
+Sum,Southern Utah,Summit League (The Summit),Southern Utah
+Sum,St. Thomas,Summit League (The Summit),St. Thomas-Minnesota
+Sum,UMKC,Summit League (The Summit),Kansas City
+Sum,Western Illinois,Summit League (The Summit),Western Illinois
+SWAC,Alabama A&M,Southwestern Conference (SWC),Alabama A&M
+SWAC,Alabama St.,Southwestern Conference (SWC),Alabama State
+SWAC,Alcorn St.,Southwestern Conference (SWC),Alcorn State
+SWAC,Arkansas Pine Bluff,Southwestern Conference (SWC),Arkansas-Pine Bluff
+SWAC,Bethune Cookman,Southwestern Conference (SWC),Bethune-Cookman
+SWAC,Florida A&M,Southwestern Conference (SWC),Florida A&M
+SWAC,Grambling St.,Southwestern Conference (SWC),Grambling
+SWAC,Jackson St.,Southwestern Conference (SWC),Jackson State
+SWAC,Mississippi Valley St.,Southwestern Conference (SWC),Mississippi Valley State
+SWAC,Prairie View A&M,Southwestern Conference (SWC),Prairie View A&M
+SWAC,Southern,Southwestern Conference (SWC),Southern
+SWAC,Texas Southern,Southwestern Conference (SWC),Texas Southern
+WAC,Abilene Christian,Western Athletic Conference (WAC),Abilene Christian
+WAC,Boise St.,Western Athletic Conference (WAC),Boise State
+WAC,Cal Baptist,Western Athletic Conference (WAC),California Baptist
+WAC,Cal St. Bakersfield,Western Athletic Conference (WAC),Cal State Bakersfield
+WAC,Chicago St.,Western Athletic Conference (WAC),Chicago State
+WAC,Denver,Western Athletic Conference (WAC),Denver
+WAC,Dixie St.,Western Athletic Conference (WAC),Utah Tech
+WAC,Fresno St.,Western Athletic Conference (WAC),Fresno State
+WAC,Grand Canyon,Western Athletic Conference (WAC),Grand Canyon
+WAC,Hawaii,Western Athletic Conference (WAC),Hawaii
+WAC,Idaho,Western Athletic Conference (WAC),Idaho
+WAC,Lamar,Western Athletic Conference (WAC),Lamar
+WAC,Louisiana Tech,Western Athletic Conference (WAC),Louisiana Tech
+WAC,Nevada,Western Athletic Conference (WAC),Nevada
+WAC,New Mexico St.,Western Athletic Conference (WAC),New Mexico State
+WAC,Rice,Western Athletic Conference (WAC),Rice
+WAC,Sam Houston St.,Western Athletic Conference (WAC),Sam Houston
+WAC,San Jose St.,Western Athletic Conference (WAC),San Jose State
+WAC,Seattle,Western Athletic Conference (WAC),Seattle U
+WAC,SMU,Western Athletic Conference (WAC),SMU
+WAC,Southern Utah,Western Athletic Conference (WAC),Southern Utah
+WAC,Stephen F. Austin,Western Athletic Conference (WAC),Stephen F. Austin
+WAC,Tarleton St.,Western Athletic Conference (WAC),Tarleton State
+WAC,Texas Pan American,Western Athletic Conference (WAC),UT Rio Grande Valley
+WAC,Texas St.,Western Athletic Conference (WAC),Texas State
+WAC,Tulsa,Western Athletic Conference (WAC),Tulsa
+WAC,UMKC,Western Athletic Conference (WAC),Kansas City
+WAC,UT Arlington,Western Athletic Conference (WAC),UT Arlington
+WAC,UT Rio Grande Valley,Western Athletic Conference (WAC),UT Rio Grande Valley
+WAC,Utah St.,Western Athletic Conference (WAC),Utah State
+WAC,Utah Tech,Western Athletic Conference (WAC),Utah Tech
+WAC,Utah Valley,Western Athletic Conference (WAC),Utah Valley
+WAC,UTEP,Western Athletic Conference (WAC),UTEP
+WAC,UTSA,Western Athletic Conference (WAC),UTSA
+WCC,BYU,West Coast Conference (WCC),BYU
+WCC,Gonzaga,West Coast Conference (WCC),Gonzaga
+WCC,Loyola Marymount,West Coast Conference (WCC),Loyola Marymount
+WCC,Oregon St.,West Coast Conference (WCC),Oregon State
+WCC,Pacific,West Coast Conference (WCC),Pacific
+WCC,Pepperdine,West Coast Conference (WCC),Pepperdine
+WCC,Portland,West Coast Conference (WCC),Portland
+WCC,Saint Mary's,West Coast Conference (WCC),Saint Mary's
+WCC,San Diego,West Coast Conference (WCC),San Diego
+WCC,San Francisco,West Coast Conference (WCC),San Francisco
+WCC,Santa Clara,West Coast Conference (WCC),Santa Clara
+WCC,Washington St.,West Coast Conference (WCC),Washington State
